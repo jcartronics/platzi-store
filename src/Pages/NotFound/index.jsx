@@ -1,7 +1,7 @@
-import React from 'react'
+import { Layout } from "../../Components/Layout"
 
 export const NotFound = () => {
   return (
-    <div>NotFound</div>
+    <Layout>NotFound</Layout>
   )
 }
